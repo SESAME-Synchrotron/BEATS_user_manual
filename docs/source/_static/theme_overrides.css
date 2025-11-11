@@ -1,20 +1,3 @@
-/* override table width restrictions */
-@media screen and (min-width: 1024px) {
-
-   .wy-table-responsive table td {
-      /* !important prevents the common CSS stylesheets from overriding
-         this as on RTD they are loaded after this stylesheet */
-      white-space: normal !important;
-   }
-
-   .wy-table-responsive {
-      overflow: visible !important;
-   }
-   .wy-nav-content {
-    max-width: 85% !important;
-   }
-}
-
 /*
 Source - https://stackoverflow.com/a
 Posted by Gustavo Bezerra, modified by community. See post 'Timeline' for change history
