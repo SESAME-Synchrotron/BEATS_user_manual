@@ -73,7 +73,7 @@ master_doc = 'index'
 # -- Project information -----------------------------------------------------
 Affiliation = u'SESAME'
 project = u'BEATS User Manual'
-copyright = u'2023, ' + Affiliation
+copyright = u'2025, ' + Affiliation
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
