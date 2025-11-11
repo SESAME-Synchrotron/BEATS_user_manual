@@ -168,7 +168,7 @@ html_theme_options = {'includehidden': False}
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-#html_logo = None
+html_logo = 'img/Beats logo.jpg'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -180,11 +180,11 @@ html_theme_options = {'includehidden': False}
 # so a file named "default.css" will overwrite the builtin "default.css".
 # html_static_path = ['_static']
 
-# html_context = {
-#    'css_files': [
-#        '_static/theme_overrides.css',  # override wide tables in RTD theme
-#        ],
-#     }
+html_context = {
+   'css_files': [
+       '_static/theme_overrides.css',  # override wide tables in RTD theme
+       ],
+    }
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
