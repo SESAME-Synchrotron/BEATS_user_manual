@@ -2,7 +2,8 @@ sphinx
 Jinja2>=3.0
 markupsafe
 sphinx_rtd_theme
+sphinxcontrib-bibtex
 nbsphinx
-pybtexsphinxcontrib-bibtex
+pybtex
 myst-nb
 
