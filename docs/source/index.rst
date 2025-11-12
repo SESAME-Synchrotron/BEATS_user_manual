@@ -11,8 +11,6 @@ This guide helps users prepare for beamtime and process tomography data.
 
    general
    prepare
-   prepare_original
-   prepare_new
    quickstart
    reconstruction
    safety
