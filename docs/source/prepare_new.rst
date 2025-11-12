@@ -36,10 +36,10 @@ Bring Enough Storage
 Following the `SESAME data policy <https://www.sesame.org.jo/for-users/user-guide/sesame-experimental-data-management-policy>`_, BEATS will archive your data for at least **5 years** after the experiment.
 
 .. warning::
-   Due to the large size of tomography datasets, **remote access is not possible** after the beamtime.  
-   You are responsible for taking a copy of all data before leaving SESAME.  
-   Bring **external drives with at least 4 TB of free space** (preferably formatted in Linux-compatible file systems).
+   Due to the large size of tomography datasets, **downloading your data is not possible** after the beamtime.  
 
+- You are responsible for taking a copy of all data before leaving SESAME.  
+- Bring **external drives with at least 4 TB of free space**.
 
 ---------------------------------------
 Safety Guidelines and Beamline Orientation
