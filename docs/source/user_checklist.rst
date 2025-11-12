@@ -33,6 +33,7 @@ Before Your Beamtime (Preparation)
 ✅ **Samples and Experiment Setup**
    - Prepare samples according to beamline requirements (size, mounting, containment).
    - Label all samples clearly.
+   - Consult with your local contact about the best way to prepare your samples.
    - Notify beamline staff if your experiment involves **hazardous materials** or **cryogenic systems**.
 
 -------------------------------------

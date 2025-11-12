@@ -9,9 +9,10 @@ This guide helps users prepare for beamtime and process tomography data.
    :maxdepth: 2
    :caption: User Manual Contents
 
-   about
    general
    prepare
+   prepare_original
+   prepare_new
    quickstart
    data_acquisition_user
    reconstruction
