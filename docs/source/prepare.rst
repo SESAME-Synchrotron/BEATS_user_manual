@@ -42,6 +42,8 @@ Each user experiment is supported by a **BEATS beamline scientist**, who will be
 - Reach out **well before** your beamtime to discuss your experiment setup. (:doc:`contacts` page).
 - If specific sample environments must be installed, this must be communicated before your arrival.
 
+-------
+
 ---------------------------------------
 Safety
 ---------------------------------------
@@ -52,6 +54,8 @@ Safety
 - Bring enough people and always work **in pairs**, especially for long or complex measurements.  
 - Get sufficient rest and plan **shift rotations** for multi-day experiments.  
 
+-------
+
 ---------------------------------------
 Sample Preparation
 ---------------------------------------
@@ -60,6 +64,8 @@ Sample Preparation
 - Follow this `**Sample Preparation Video** <https://www.youtube.com/watch?v=dQw4w9WgXcQ>`_.
 - Samples can be mounted on standard magnetic holders at the beamline.
 - Contact the beamline staff if you require adapters or custom mounts.
+
+-------
 
 ---------------------------------------
 Data Analysis
@@ -70,6 +76,8 @@ To make efficient use of beamtime, be prepared to **inspect your reconstructed d
 - You are expected to know basic operations in `**ImageJ** <https://fiji.sc/>`_.  
 - See :ref:`Inspect data with ImageJ` for installation and usage instructions.
 - A collection of video tutorials on 3D image processing is available on the :doc:`data_analysis` page.
+
+-------
 
 ---------------------------------------
 Ready To Go?

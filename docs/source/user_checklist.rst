@@ -2,65 +2,47 @@
 BEATS Beamtime User Checklist
 ==============================
 
-This quick reference checklist is intended for visiting scientists and users preparing for beamtime at the **BEATS beamline**.
-It summarizes the most important steps before, during, and after your experiment.
-
-.. note::
-   This page complements the detailed sections in:
-   :doc:`prepare` — Preparation for beamtime  
-   :doc:`quickstart` — Running your experiment  
-   :doc:`reconstruction` — Data reconstruction and visualization
+Checklist for users preparing for beamtime at **SESAME BEATS**.
 
 -------------------------------------
-Before Your Beamtime (Preparation)
+Before Your Beamtime
 -------------------------------------
 
 ✅ **Travel and Accommodation**
-   - Confirm your beamtime schedule and proposal ID.
-   - Book travel and accommodation via SESAME User Office.
-   - If staying at the SESAME guesthouse, check in at least **one day before** your session.
+   - Organize your visit with `SESAME's User Office <https://www.sesame.org.jo/for-users/sesame-user-office>`_.
+   - Shipping or transport of materials and samples must be organized **well in advance**.
 
-✅ **User Registration and Safety**
-   - Complete SESAME user registration and safety training.
-   - Bring your valid **ID/passport** and **safety badge** to access the facility.
-   - Familiarize yourself with the :doc:`safety` page and emergency contacts.
+✅ **Safety**
+   - Every registered user must complete the **SESAME safety training**.
+   - Notify beamline staff if your experiment involves **hazardous or biological materials**.
 
 ✅ **Data and Storage**
-   - Bring **sufficient storage** (≥2 TB recommended) formatted in a Linux-compatible filesystem.
-   - Verify available space on the BEATS data server or provide external drives.
-   - Label all storage devices with your proposal number and name.
+   - Bring **sufficient storage** (≥4 TB recommended).
 
 ✅ **Samples and Experiment Setup**
-   - Prepare samples according to beamline requirements (size, mounting, containment).
+   - Consult with the beamline staff to discuss your samples and experiment setup. (:doc:`contacts` page).
+   - Prepare samples as described in our :ref:`Sample Preparation` page.
    - Label all samples clearly.
-   - Consult with your local contact about the best way to prepare your samples.
-   - Notify beamline staff if your experiment involves **hazardous materials** or **cryogenic systems**.
 
 -------------------------------------
 During Your Beamtime
 -------------------------------------
 
-✅ **Arrival and Check-In**
-   - Arrive **30 minutes before** your scheduled start.
-   - Meet with BEATS beamline staff for a short introduction.
-   - Verify access credentials for data storage and beamline PCs.
+✅ **Keep an Experiment Log**
 
-✅ **Beamline Startup**
-   - Confirm vacuum status via the **Beamline Vacuum GUI** (:doc:`quickstart`).
-   - Load your sample using the alignment and mounting tools.
-   - Verify beam position and energy settings.
+.. note::
+      You are responsible for maintainaning a detailed log of your experiment!
 
-✅ **Data Acquisition**
-   - Configure the **BEATS Dashboard** (:doc:`data_acquisition_user`) for your scan type:
-     - *Single image*, *SSCAN*, or *TomoScan*.
-   - Test a short preview scan before full acquisition.
-   - Monitor data streams in real time; check for saturation or misalignment.
+   - The beamline staff will provide access to a digital logbook.
+   - Record experiment settings of each scan: sample IDs, pixelsize, energy, observations.
 
-✅ **Data Management**
-   - Confirm data are written to your proposal folder:
-     ``/data/raw/<proposal_id>/``
-   - Backup important files to your external storage before the end of beamtime.
-   - Avoid deleting or renaming data during active acquisition.
+✅ **Inspect your Reconstructions with ImageJ**
+
+.. note::
+      You are responsible for maintainaning a detailed log of your experiment!
+
+   - The beamline staff will provide access to a digital logbook.
+
 
 -------------------------------------
 After Your Beamtime
