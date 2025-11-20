@@ -8,7 +8,7 @@ You are encouraged to get in touch with the beamline staff well before the begin
 
 
 Beamline staff
---------------
+~~~~~~~~~~~~~~
 
 +----------------------+--------------------+------------------------------------+-----+--------------------+
 | Name                 | Role               | Email                              | EXT | Mobile             |

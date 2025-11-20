@@ -10,5 +10,6 @@ This guide helps users prepare for beamtime and process tomography data.
    :caption: User Manual Contents
 
    prepare
+   data_analysis
    contacts
    user_checklist
