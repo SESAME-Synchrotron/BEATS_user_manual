@@ -9,7 +9,7 @@ Data analysis software
 The following software can be used to inspect and process microtomography data from SESAME BEATS.
 
 +-----------+-------------------------------------------------+-------------+------------------------------------------------------------+
-| Name      | URL                                             | Open source | Features                                                   |
+| Name      | Link                                             | Open source | Features                                                   |
 +===========+=================================================+=============+============================================================+
 | ImageJ    | https://fiji.sc/                                | yes         | Essential for data collection and reconstruction           |
 +-----------+-------------------------------------------------+-------------+------------------------------------------------------------+
@@ -32,7 +32,7 @@ Reconstructions at SESAME BEATS are saved as a stack of ``.TIFF`` images contain
    Always select the option ``Use Virtual Stack`` when you import large image stacks in ImageJ!
 
 
----
+-----
 
 ------------------------------
 Image Processing Video Library
@@ -98,6 +98,8 @@ General Videos
 +----------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
 | Using synchrotron X-ray micro-CT in natural & cultural heritage – V. Fernandez & C. Berruyer                   | https://www.youtube.com/watch?v=tJB1yIarNdA                                                                                 |
 +----------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
+
+-----
 
 ------------------------------
 Open Datasets
