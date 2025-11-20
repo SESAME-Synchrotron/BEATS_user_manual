@@ -1,2 +1,0 @@
-BEATS Control System
-====================
