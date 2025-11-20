@@ -21,7 +21,7 @@ Before Your Beamtime
 
 ✅ **Samples and Experiment Setup**
    - Consult with the beamline staff to discuss your samples and experiment setup. (:doc:`contacts` page).
-   - Prepare samples as described in our :ref:`Sample Preparation` page.
+   - Prepare samples as described in our :ref:`Sample Preparation` page and in this `video <https://www.youtube.com/watch?v=03ZMfrqGOsw>`_.
    - Label all samples clearly.
 
 -------------------------------------
