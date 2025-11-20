@@ -39,8 +39,8 @@ Contact The Beamline Staff
 
 Each user experiment is supported by a **BEATS beamline scientist**, who will be your main point of contact before, during, and after the beamtime.
 
-- Reach out **well before** your beamtime to discuss your experiment setup. (:doc:`contacts` page).
-- If specific sample environments must be installed, this must be communicated before your arrival.
+- Reach out **well before** your beamtime to discuss your experiment setup. (:doc:`contacts`).
+- Communicate if specific sample environments must be installed before your arrival.
 
 -------
 
