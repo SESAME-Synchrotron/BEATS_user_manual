@@ -24,6 +24,7 @@ Before Your Beamtime
    - Prepare samples as described in our :ref:`Sample Preparation` page and in this `video <https://www.youtube.com/watch?v=03ZMfrqGOsw>`_.
    - Label all samples clearly.
 
+
 -------------------------------------
 During Your Beamtime
 -------------------------------------
@@ -67,6 +68,8 @@ After Your Beamtime
    - Report any issues or suggestions to beamline staff.
    - Submit your **experiment feedback form** to help improve user support.
 
+-----
+
 -------------------------------------
 Quick Contacts
 -------------------------------------
@@ -76,7 +79,3 @@ Quick Contacts
 - **Control Room:** internal extension 1234
 - **Emergency:** dial 3333 from any SESAME phone
 
--------------------------------------
-Version History
--------------------------------------
-- v1.0 — Initial draft (2025-11-07) for inclusion in User Manual
