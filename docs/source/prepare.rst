@@ -7,7 +7,7 @@ Prepare for Beamtime
       Read the points below before your visit to ensure a smooth start of your beamtime at BEATS.
 
 ---------------------------------------
-Travel and Guesthouse Arrangements
+Before Arrival
 ---------------------------------------
 
 The `SESAME User Office <https://www.sesame.org.jo/for-users/sesame-user-office>`_ will contact you to organize your visit, including:
@@ -15,10 +15,6 @@ The `SESAME User Office <https://www.sesame.org.jo/for-users/sesame-user-office>
 - Guesthouse reservation  
 - Access card and site entry  
 - Safety training coordination  
-
----------------------------------------
-General Preparations Before Arrival
----------------------------------------
 
 Before your arrival, make sure to:
 
@@ -33,54 +29,47 @@ Before your arrival, make sure to:
 Bring Enough Storage
 ~~~~~~~~~~~~~~~~~~~~
 
-Following the `SESAME data policy <https://www.sesame.org.jo/for-users/user-guide/sesame-experimental-data-management-policy>`_, BEATS will archive your data for at least **5 years** after the experiment.
-
-- You are responsible for taking a copy of all data before leaving SESAME.  
-- Bring **external drives with at least 4 TB of free space**.
-
 .. warning::
-   Due to the large size of tomography datasets, **downloading your data is not possible** after the beamtime.  
+   - Due to the large size of tomography datasets, **downloading your data is not possible** after the beamtime.  
+   - You are responsible for taking a copy of all experimental data before leaving SESAME.
+   - Bring **external drives with at least 4 TB of free space**.
 
----------------------------------------
-Safety Guidelines and Beamline Orientation
----------------------------------------
-
-All users must comply with SESAME’s safety rules and regulations.  
-The **main proposer** is responsible for ensuring all team members have completed safety training and understand the relevant procedures.
-
-If any safety-related aspect of your experiment has changed since the proposal submission, notify the **beamline staff** immediately.
-
-We recommend all our users to:
-
-- Bring enough people and always work **in pairs**, especially for long or complex measurements.  
-- Get sufficient rest and plan **shift rotations** for multi-day experiments.  
-
----------------------------------------
-Contact The Beamline Scientists
----------------------------------------
+Contact The Beamline Staff
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Each user experiment is supported by a **BEATS beamline scientist**, who will be your main point of contact before, during, and after the beamtime.
 
-- Reach out **well before** your beamtime to discuss your experiment setup.  
+- Reach out **well before** your beamtime to discuss your experiment setup. (:doc:`contacts` page).
 - If specific sample environments must be installed, this must be communicated before your arrival.
+
+---------------------------------------
+Safety
+---------------------------------------
+
+- All users must comply with `SESAME safety rules and regulations <https://www.sesame.org.jo/for-users/safety-for-users>`_. 
+- The **main proposer** is responsible for ensuring all team members have completed safety training and understand the relevant procedures.
+- If any safety-related aspect of your experiment has changed since the proposal submission, notify the **beamline staff** immediately.
+- Bring enough people and always work **in pairs**, especially for long or complex measurements.  
+- Get sufficient rest and plan **shift rotations** for multi-day experiments.  
 
 ---------------------------------------
 Sample Preparation
 ---------------------------------------
 
-- The **optimal geometry** for tomography is a **cylinder**. Prepare your samples as close as possible to this shape.
+- The **optimal geometry** for tomography is a **cylinder**.
+- Follow this `**Sample Preparation Video** <https://www.youtube.com/watch?v=dQw4w9WgXcQ>`_.
 - Samples can be mounted on standard magnetic holders at the beamline.
 - Contact the beamline staff if you require adapters or custom mounts.
 
 ---------------------------------------
-Visualize and Inspect Your 3D Data
+Data Analysis
 ---------------------------------------
 
 To make efficient use of beamtime, be prepared to **inspect your reconstructed data**.
 
-- You are expected to know basic operations in **ImageJ**.  
-- See :ref:`Load reconstructed volume with ImageJ` for installation and usage instructions.  
-- See a complete list of useful software under :ref:`Data analysis software`.
+- You are expected to know basic operations in `**ImageJ** <https://fiji.sc/>`_.  
+- See :ref:`Inspect data with ImageJ` for installation and usage instructions.
+- A collection of video tutorials on 3D image processing is available on the :doc:`data_analysis` page.
 
 ---------------------------------------
 Ready To Go?
