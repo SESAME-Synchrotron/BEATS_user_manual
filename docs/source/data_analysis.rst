@@ -32,6 +32,8 @@ Reconstructions at SESAME BEATS are saved as a stack of ``.TIFF`` images contain
    Always select the option ``Use Virtual Stack`` when you import large image stacks in ImageJ!
 
 
+---
+
 ------------------------------
 Image Processing Video Library
 ------------------------------
