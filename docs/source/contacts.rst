@@ -7,8 +7,6 @@ Your experiment will be supported by one of our local contacts, who will be your
 You are encouraged to get in touch with the beamline staff well before the beginning of your beamtime to coordinate beamtime preparations.
 
 
-Beamline staff
-~~~~~~~~~~~~~~
 
 +----------------------+--------------------+------------------------------------+-----+--------------------+
 | Name                 | Role               | Email                              | EXT | Mobile             |
