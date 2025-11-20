@@ -9,10 +9,6 @@ This guide helps users prepare for beamtime and process tomography data.
    :maxdepth: 2
    :caption: User Manual Contents
 
-   general
    prepare
-   quickstart
-   reconstruction
-   safety
    contacts
-   user_checklist   # 🆕 proposed compact quick reference
+   user_checklist
