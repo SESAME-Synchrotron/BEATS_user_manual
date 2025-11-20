@@ -51,11 +51,11 @@ ImageJ / Fiji
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
 | ImageJ Getting Started Guide – Rigaku                         | https://www.youtube.com/watch?v=i2psSGyOyrg                                                                                 |
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| X-ray Computed Tomography for Materials & Life Sciences       | https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/x-ray-ct-webinars-and-workshops/x-ray-ct-webinar-series          |
+| X-ray Computed Tomography for Materials & Life Sciences       | https://rigaku.com/products/imaging-ndt/x-ray-ct/learning/x-ray-ct-webinars-and-workshops/x-ray-ct-webinar-series           |
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| ImageJ/Fiji SEM 3D Image Analysis Playlist                    | https://www.youtube.com/playlist?list=PLROw8eoOoRBMqVY5_owK8zjLOqaeN9242                                                   |
+| ImageJ/Fiji SEM 3D Image Analysis Playlist                    | https://www.youtube.com/playlist?list=PLROw8eoOoRBMqVY5_owK8zjLOqaeN9242                                                    |
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| Using ImageJ (FIJI) and 3D Slicer to visualize microCT stack | https://www.youtube.com/watch?v=9Ike3_MOIEw                                                                                |
+| Using ImageJ (FIJI) and 3D Slicer to visualize microCT stack  | https://www.youtube.com/watch?v=9Ike3_MOIEw                                                                                 |
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
 
 3D Slicer
@@ -64,11 +64,11 @@ ImageJ / Fiji
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
 | Title                                                         | Link                                                                                                                        |
 +===============================================================+=============================================================================================================================+
-| 3D Slicer Tutorial Playlist                                   | https://www.youtube.com/playlist?list=PLeaIM0zUlEqswa6Pskg9uMq15LiWWYP39                                                   |
+| 3D Slicer Tutorial Playlist                                   | https://www.youtube.com/playlist?list=PLeaIM0zUlEqswa6Pskg9uMq15LiWWYP39                                                    |
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| 3D Slicer Tutorial #2: Manual Segmentation and Thresholding   | https://www.youtube.com/watch?v=ZRYMItzwg8g                                                                                |
+| 3D Slicer Tutorial #2: Manual Segmentation and Thresholding   | https://www.youtube.com/watch?v=ZRYMItzwg8g                                                                                 |
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| CT Segmentation in 3D Slicer                                  | https://www.youtube.com/watch?v=0l-vXTfFtGw                                                                                |
+| CT Segmentation in 3D Slicer                                  | https://www.youtube.com/watch?v=0l-vXTfFtGw                                                                                 |
 +---------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
 
 
@@ -90,11 +90,11 @@ General Videos
 +----------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
 | Title                                                                                                          | Link                                                                                                                        |
 +================================================================================================================+=============================================================================================================================+
-| Synchrotron X-ray imaging and computed tomography – Paul Tafforeau (ESRF)                                      | https://www.youtube.com/watch?v=nYxCyJZlP1A                                                                                |
+| Synchrotron X-ray imaging and computed tomography – Paul Tafforeau (ESRF)                                      | https://www.youtube.com/watch?v=nYxCyJZlP1A                                                                                 |
 +----------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| Tomography Beamline Tour – BMIT (Canadian Light Source)                                                       | https://www.youtube.com/watch?v=tX2hbRLNn_0&pp=ygUWc3luY2hyb3Ryb24gdG9tb2dyYXBoeQ%3D%3D                                   |
+| Tomography Beamline Tour – BMIT (Canadian Light Source)                                                        | https://www.youtube.com/watch?v=tX2hbRLNn_0&pp=ygUWc3luY2hyb3Ryb24gdG9tb2dyYXBoeQ%3D%3D                                     |
 +----------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
-| Using synchrotron X-ray micro-CT in natural & cultural heritage – V. Fernandez & C. Berruyer                  | https://www.youtube.com/watch?v=tJB1yIarNdA                                                                                |
+| Using synchrotron X-ray micro-CT in natural & cultural heritage – V. Fernandez & C. Berruyer                   | https://www.youtube.com/watch?v=tJB1yIarNdA                                                                                 |
 +----------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------
