@@ -20,7 +20,7 @@ Before Your Beamtime
    - Bring **sufficient storage** (≥4 TB recommended).
 
 ✅ **Samples and Experiment Setup**
-   - Consult with the beamline staff to discuss your samples and experiment setup. (:doc:`contacts` page).
+   - Consult with the beamline staff to discuss your samples and experiment setup. (:doc:`contacts`).
    - Prepare samples as described in our :ref:`Sample Preparation` page and in this `video <https://www.youtube.com/watch?v=03ZMfrqGOsw>`_.
    - Label all samples clearly.
 
@@ -30,11 +30,11 @@ During Your Beamtime
 
 ✅ **Keep an Experiment Log**
 
+- The beamline staff will provide access to a digital logbook.
+- Record experiment settings of each scan: sample IDs, pixelsize, energy, observations.
+
 .. note::
       You are responsible for maintainaning a detailed log of your experiment!
-
-   - The beamline staff will provide access to a digital logbook.
-   - Record experiment settings of each scan: sample IDs, pixelsize, energy, observations.
 
 ✅ **Inspect your Reconstructions with ImageJ**
 

@@ -73,7 +73,7 @@ Data Analysis
 
 To make efficient use of beamtime, be prepared to **inspect your reconstructed data**.
 
-- You are expected to know basic operations in **`ImageJ <https://fiji.sc/>`_**.  
+- You are expected to know basic operations in `ImageJ <https://fiji.sc/>`_.  
 - See :ref:`Inspect data with ImageJ` for installation and usage instructions.
 - A collection of video tutorials on 3D image processing is available on the :doc:`data_analysis` page.
 
@@ -85,4 +85,4 @@ Ready To Go?
 
 Before your arrival, review the BEATS user checklist:
 
-- :doc:`user_checklist` — Quick reference for visiting users
+- :doc:`user_checklist` — Quick reference for beamline users
