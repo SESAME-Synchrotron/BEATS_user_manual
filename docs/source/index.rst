@@ -11,6 +11,11 @@ Useful Links
 - SESAME User Office contact: `useroffice@sesame.org.jo <useroffice@sesame.org.jo>`_
 - `SESAME ID10-BEATS beamline web page <https://www.sesame.org.jo/beamlines/beats>`_
 
+Acknowledgements
+----------------
+
+   - Acknowledge BEATS and SESAME in your publications.
+   - Submit your **experiment feedback form** to help improve user support.
 
 .. toctree::
    :maxdepth: 2
