@@ -55,9 +55,10 @@ After Your Beamtime
    - Submit your **experimental report and publications** through the `SESAME User Portal (SUP) <https://sup.sesame.org.jo/>`_.
 
 .. note::
-      Any publication resulting from beamtime at BEATS for which the beamline staff has made substantial contributions **should include the local contact(s) as co-author(s)**. (See `SESAME User Policy Sec VIII <https://www.sesame.org.jo/for-users/user-guide/sesame-user-policy#section8>`_).
-      At least, the authors must mention Paul Scherrer Institut, SLS, the instrument and the beamline/station support in the acknowledgement. The following statement should be used for all experiments carried out at the TOMCAT beamline [where the part in parentheses is optional]:
-      "We acknowledge the Paul Scherrer Institut, Villigen, Switzerland for provision of synchrotron radiation beamtime at the TOMCAT beamline X02DA of the SLS [and would like to thank xyz for assistance]." 
+      Any publication resulting from beamtime at BEATS where the beamline staff has made substantial contributions **should include the local contact(s) as co-author(s)**. (See `SESAME User Policy Sec VIII <https://www.sesame.org.jo/for-users/user-guide/sesame-user-policy#section8>`_).
+      At least, the authors must mention SESAME and the ID10-BEATS beamline in the acknowledgement using the following statement:
+
+> "We acknowledge SESAME for providing beamtime at beamline ID10-BEATS [and would like to thank xyz for assistance]." 
 
 -----
 
