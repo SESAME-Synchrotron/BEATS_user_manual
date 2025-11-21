@@ -1,6 +1,6 @@
-==============================
-BEATS Beamtime User Checklist
-==============================
+==================
+Beamtime Checklist
+==================
 
 Checklist for users preparing for beamtime at **SESAME BEATS**.
 
@@ -58,7 +58,7 @@ After Your Beamtime
       Any publication resulting from beamtime at BEATS where the beamline staff has made substantial contributions **should include the local contact(s) as co-author(s)**. (See `SESAME User Policy Sec VIII <https://www.sesame.org.jo/for-users/user-guide/sesame-user-policy#section8>`_).
       At least, the authors must mention SESAME and the ID10-BEATS beamline in the acknowledgement using the following statement:
 
-   > "We acknowledge SESAME for providing beamtime at beamline ID10-BEATS [and would like to thank xyz for assistance]." 
+         "We acknowledge SESAME for providing beamtime at beamline ID10-BEATS [and would like to thank xyz for assistance]." 
 
 -----
 
