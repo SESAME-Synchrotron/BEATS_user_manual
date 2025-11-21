@@ -21,7 +21,8 @@ The following software can be used to inspect and process microtomography data f
 +-----------+-------------------------------------------------+-------------+------------------------------------------------------------+
 
 Inspect data with ImageJ
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 Reconstructions at SESAME BEATS are saved as a stack of ``.TIFF`` images contained in a reconstruction folder. To load a reconstruction in ImageJ use the command ``File › Import › Image Sequence``. You can follow `this video <https://www.youtube.com/watch?v=rmQwHGap2ko>`_ for a detailed explanation on how to import image sequences.
 
 .. figure:: /img/imagej_image_sequence.png

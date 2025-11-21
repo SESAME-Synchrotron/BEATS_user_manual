@@ -30,16 +30,16 @@ During Your Beamtime
 
 ✅ **Keep Log of your Experiment**
 
-- The beamline staff will provide access to a digital logbook.
-- Record experiment settings of each scan: sample IDs, pixelsize, energy, observations..
+   - The beamline staff will provide access to a digital logbook.
+   - Record experiment settings of each scan: sample IDs, pixelsize, energy, observations..
 
-.. note::
+   .. note::
       You are responsible for maintainaning a detailed log of your experiment!
 
 ✅ **Inspect Reconstructions with ImageJ**
 
-- Learn how to :ref:`Inspect data with ImageJ`.
-- See collection of video tutorials available on our :doc:`data_analysis` page.
+   - Learn how to :ref:`Inspect data with ImageJ`.
+   - See collection of video tutorials available on our :doc:`data_analysis` page.
 
 ✅ **Data Backup**
 
@@ -54,11 +54,11 @@ After Your Beamtime
    - Acknowledge BEATS and SESAME in your publications.
    - Submit your **experimental report and publications** through the `SESAME User Portal (SUP) <https://sup.sesame.org.jo/>`_.
 
-.. note::
+   .. note::
       Any publication resulting from beamtime at BEATS where the beamline staff has made substantial contributions **should include the local contact(s) as co-author(s)**. (See `SESAME User Policy Sec VIII <https://www.sesame.org.jo/for-users/user-guide/sesame-user-policy#section8>`_).
       At least, the authors must mention SESAME and the ID10-BEATS beamline in the acknowledgement using the following statement:
 
-> "We acknowledge SESAME for providing beamtime at beamline ID10-BEATS [and would like to thank xyz for assistance]." 
+   > "We acknowledge SESAME for providing beamtime at beamline ID10-BEATS [and would like to thank xyz for assistance]." 
 
 -----
 
