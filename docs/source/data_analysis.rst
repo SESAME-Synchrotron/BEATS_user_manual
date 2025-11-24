@@ -20,6 +20,8 @@ The following software can be used to inspect and process microtomography data f
 | Paraview  | https://www.paraview.org/                       | yes         | 3D image rendering for advanced users                      |
 +-----------+-------------------------------------------------+-------------+------------------------------------------------------------+
 
+.. _Inspect data with ImageJ:
+
 Inspect data with ImageJ
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -27,6 +29,7 @@ Reconstructions at SESAME BEATS are saved as a stack of ``.TIFF`` images contain
 
 .. figure:: /img/imagej_image_sequence.png
    :align: center
+   :width: 200px
    :alt: Import image sequence in ImageJ
 
 .. note::
