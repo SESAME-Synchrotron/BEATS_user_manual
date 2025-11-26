@@ -7,11 +7,10 @@ Beamline hardware
 Sample mount
 ------------
 
-* Samples can be mounted on the tomography rotation stage with M4 screws as shown below.
-
-* The following kinematic mounts from Newport are available:
-    * `M-BK-1A <https://www.newport.com/p/M-BK-1A>`_ (download -> `drawing <https://www.newport.com/medias/sys_master/images/images/h7a/h3c/8933922308126/BK-1-S.pdf>`_).
-    * `M-BK-2A <https://www.newport.com/p/M-BK-2A>`_ (download -> `drawing <https://www.newport.com/medias/sys_master/npresources/h9c/hde/9954493825054/BK-2A-S/BK-2A-S.pdf>`_).
+- Samples can be mounted on the tomography rotation stage with M4 screws as shown below.
+- The following kinematic mounts from Newport are available:
+    - `M-BK-1A <https://www.newport.com/p/M-BK-1A>`_ (download -> `drawing <https://www.newport.com/medias/sys_master/images/images/h7a/h3c/8933922308126/BK-1-S.pdf>`_).
+    - `M-BK-2A <https://www.newport.com/p/M-BK-2A>`_ (download -> `drawing <https://www.newport.com/medias/sys_master/npresources/h9c/hde/9954493825054/BK-2A-S/BK-2A-S.pdf>`_).
 
 .. figure:: /img/sample_mount_endstation2.png
 	:align: center
