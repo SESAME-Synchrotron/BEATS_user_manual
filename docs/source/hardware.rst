@@ -17,7 +17,7 @@ Sample mount
 	:align: center
 	:alt: Sample mounting at BEATS
 
-	*(LEFT) Sample mounted on BEATS tomography endstation with M-BK-1A magnetic holder. (RIGHT) The sample plate has 9 M4 holes that can be used for custom sample support.*
+	*(LEFT) Sample mounted on BEATS tomography endstation with M-BK-1A magnetic holder. (CENTER) Entstation tomography plate. (RIGHT) Newport M-BK-1A and M-BK-2A top plates. All M4 holes can be used for custom sample support.*
 
 Detectors
 ---------
