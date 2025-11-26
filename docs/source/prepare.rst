@@ -64,7 +64,7 @@ Sample Preparation
 
 - The **optimal geometry** for tomography is a **cylinder**.
 - Follow this `Sample Preparation Video <https://www.youtube.com/watch?v=03ZMfrqGOsw>`_.
-- Samples can be mounted on standard magnetic holders at the beamline.
+- Samples can be mounted on standard magnetic holders at the beamline (See :ref:`Sample mount` section).
 - Contact the beamline staff if you require adapters or custom mounts.
 
 -------

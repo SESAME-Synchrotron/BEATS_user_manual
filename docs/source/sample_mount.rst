@@ -1,21 +1,13 @@
-Setup your experiment
-=====================
+Sample mount
+------------
 
-.. warning::
-	**Collision danger**: Only perform this operation together with the beamline staff. You must always pay attention to the position of endstation, detectors and sample, while performing the alignment. **Always move small steps when endstation and detector are close to each other!** 
+* Samples can be mounted on the tomography rotation stage with M4 screws as shown Figure 2.
 
-.. figure:: /img/exp_station.png
+* A set of standard kinematic mounts from Newport is also available: `M-BK-1A <https://www.newport.com/p/M-BK-1A>`_ (download -> `drawing <https://www.newport.com/medias/sys_master/images/images/h7a/h3c/8933922308126/BK-1-S.pdf>`_).
+
+.. figure:: /img/beats_sample_mount.png
 	:align: center
-	:alt: BEATS experimental station
+	:alt: Sample mounting at BEATS
 
-	*Figure 1: BEATS experimental station. Two laser lines are used to pre-align sample and detector on the beam.*
+	*Figure 2: (LEFT) Detail of sample tomography stage. (RIGHT) The sample plate has 9 M4 holes that can be used for custom sample support.*
 
-Prepare your experiment following these steps:
-
-1. Mount your sample on top of endstation #1
-2. Turn on the alignment lasers
-3. Use the laptop close to the endstation to:
-
-   3.1. Pre-align sample on the intersection of the laser planes (you can verify this also moving the ROT stage)
-   3.2. Pre-align the detector scintillator on the same line
-   3.3. Set the distance between sample and detector to the desired value

@@ -25,3 +25,4 @@ Acknowledgements
    data_analysis
    contacts
    user_checklist
+   hardware
