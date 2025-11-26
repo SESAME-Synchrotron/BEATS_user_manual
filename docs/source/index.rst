@@ -14,8 +14,8 @@ Useful Links
 Acknowledgements
 ----------------
 
-   - Acknowledge BEATS and SESAME in your publications.
-   - Submit your **experiment feedback form** to help improve user support.
+- Acknowledge BEATS and SESAME in your publications.
+- Submit your **BEST (BEam time SaTisfaction), experimental reports and publications** on `SESAME User Portal <sup.sesame.org.jo>`_.
 
 .. toctree::
    :maxdepth: 2
